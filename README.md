@@ -21,3 +21,5 @@ key = a/b/c
 object = {“x”:{“y”:{“z”:”a”}}}
 key = x/y/z
 value = a
+
+I have chosen Python as the language to write the script to fetch values from nested object keys
