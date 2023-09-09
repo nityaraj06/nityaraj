@@ -50,7 +50,7 @@ on:
 
 env:
   PROJECT_ID: "my-project-nitya-397207" # TODO: update Google Cloud project id
-  GAR_LOCATION: "*.gcr.io" # TODO: update Artifact Registry location
+  GAR_LOCATION: "asia-south1" # TODO: update Artifact Registry location
   SERVICE: "my-cloudrun" # TODO: update Cloud Run service name
   REGION: "asia-south1" # TODO: update Cloud Run service region
 
